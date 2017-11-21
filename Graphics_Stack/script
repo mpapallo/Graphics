@@ -1,0 +1,75 @@
+###body###
+push
+translate
+250 250 0
+push
+scale
+1.1 1.3 0
+sphere
+0 0 100
+pop
+####head###
+push
+translate
+0 150 0
+yrotate
+15
+push
+scale
+1.5 1 0
+sphere
+0 0 50
+pop
+color
+255 0 0
+circle
+-25 10 5
+circle
+25 10 5
+line
+-30 10 0 30 10 0
+pop
+###arms###
+color
+255 255 255
+push
+translate
+120 20 0
+scale
+1 2.2 0
+push
+sphere
+0 0 30
+pop
+push
+translate
+-240 0 0
+xrotate
+45
+sphere
+0 0 30
+pop
+pop
+###legs###
+push
+translate
+50 -130 0
+scale
+1 2 0
+push
+sphere
+0 0 30
+pop
+push
+translate
+-100 0 0
+sphere
+0 0 30
+pop
+pop
+###tada###
+pop
+display
+save
+pic.png
+quit
