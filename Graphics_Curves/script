@@ -1,0 +1,24 @@
+line
+250 260 0 250 440 0
+line
+250 60 0 250 240 0
+line
+260 250 0 440 250 0
+line
+240 250 0 60 250 0
+line
+110 110 0 390 390 0
+line
+110 390 0 390 110 0
+circle
+250 250 200
+circle
+250 250 190
+circle
+250 250 5
+circle
+250 250 10
+display
+save
+img.png
+quit
